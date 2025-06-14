@@ -1,0 +1,252 @@
+[
+  {
+    "_id": "pedido_1",
+    "usuario_id": "user_3",
+    "fecha": "2025-06-01T10:30:00Z",
+    "estado": "enviado",
+    "productos": [
+      { "producto_id": "prod_3", "cantidad": 2 },
+      { "producto_id": "prod_6", "cantidad": 1 }
+    ],
+    "total": 154.83,
+    "direccion_envio": "Paseo de Saturnina Sola 85, Cádiz, 26457",
+    "metodo_pago": "tarjeta"
+  },
+  {
+    "_id": "pedido_2",
+    "usuario_id": "user_5",
+    "fecha": "2025-06-02T13:45:00Z",
+    "estado": "procesando",
+    "productos": [
+      { "producto_id": "prod_2", "cantidad": 1 },
+      { "producto_id": "prod_9", "cantidad": 1 }
+    ],
+    "total": 211.00,
+    "direccion_envio": "C. de Cristóbal Mateo 8, Alicante, 09086",
+    "metodo_pago": "contra entrega"
+  },
+  {
+    "_id": "pedido_3",
+    "usuario_id": "user_4",
+    "fecha": "2025-06-03T09:10:00Z",
+    "estado": "entregado",
+    "productos": [
+      { "producto_id": "prod_5", "cantidad": 1 }
+    ],
+    "total": 64.86,
+    "direccion_envio": "Ronda de Esperanza Manzano 9 Piso 4, Palencia, 90098",
+    "metodo_pago": "tarjeta"
+  },
+  {
+    "_id": "pedido_4",
+    "usuario_id": "user_6",
+    "fecha": "2025-06-04T17:00:00Z",
+    "estado": "cancelado",
+    "productos": [
+      { "producto_id": "prod_8", "cantidad": 2 }
+    ],
+    "total": 49.04,
+    "direccion_envio": "Via Bernarda Campillo 22, Burgos, 29991",
+    "metodo_pago": "nequi"
+  },
+  {
+    "_id": "pedido_5",
+    "usuario_id": "user_7",
+    "fecha": "2025-06-05T12:15:00Z",
+    "estado": "procesando",
+    "productos": [
+      { "producto_id": "prod_10", "cantidad": 1 },
+      { "producto_id": "prod_1", "cantidad": 1 }
+    ],
+    "total": 331.59,
+    "direccion_envio": "Paseo de Nadia Cabrero 83 Puerta 8, Ceuta, 36571",
+    "metodo_pago": "daviplata"
+  },
+  {
+    "_id": "pedido_6",
+    "usuario_id": "user_8",
+    "fecha": "2025-06-06T14:20:00Z",
+    "estado": "enviado",
+    "productos": [
+      { "producto_id": "prod_4", "cantidad": 1 }
+    ],
+    "total": 187.63,
+    "direccion_envio": "Ronda de Calisto Valderrama 159, Girona, 74348",
+    "metodo_pago": "tarjeta"
+  },
+  {
+    "_id": "pedido_7",
+    "usuario_id": "user_9",
+    "fecha": "2025-06-07T18:40:00Z",
+    "estado": "entregado",
+    "productos": [
+      { "producto_id": "prod_6", "cantidad": 1 },
+      { "producto_id": "prod_7", "cantidad": 1 }
+    ],
+    "total": 295.44,
+    "direccion_envio": "Camino Lupita Villalobos 87, Vizcaya, 80236",
+    "metodo_pago": "tarjeta"
+  },
+  {
+    "_id": "pedido_8",
+    "usuario_id": "user_10",
+    "fecha": "2025-06-08T08:55:00Z",
+    "estado": "procesando",
+    "productos": [
+      { "producto_id": "prod_5", "cantidad": 2 }
+    ],
+    "total": 129.72,
+    "direccion_envio": "Urbanización de Trinidad Gonzalez 407, Jaén, 59170",
+    "metodo_pago": "contra entrega"
+  },
+  {
+    "_id": "pedido_9",
+    "usuario_id": "user_1",
+    "fecha": "2025-06-09T15:10:00Z",
+    "estado": "entregado",
+    "productos": [
+      { "producto_id": "prod_1", "cantidad": 1 }
+    ],
+    "total": 155.54,
+    "direccion_envio": "Acceso de Cristian Nicolás 4, Palencia, 62662",
+    "metodo_pago": "pse"
+  },
+  {
+    "_id": "pedido_10",
+    "usuario_id": "user_2",
+    "fecha": "2025-06-10T11:30:00Z",
+    "estado": "enviado",
+    "productos": [
+      { "producto_id": "prod_7", "cantidad": 1 },
+      { "producto_id": "prod_10", "cantidad": 1 }
+    ],
+    "total": 370.40,
+    "direccion_envio": "Glorieta de Marita Ibañez 5, Madrid, 03607",
+    "metodo_pago": "tarjeta"
+  },
+  {
+    "_id": "pedido_11",
+    "usuario_id": "user_2",
+    "fecha": "2025-06-11T09:50:00Z",
+    "estado": "procesando",
+    "productos": [
+      { "producto_id": "prod_12", "cantidad": 1 },
+      { "producto_id": "prod_18", "cantidad": 1 }
+    ],
+    "total": 194.80,
+    "direccion_envio": "Calle Palma Real 200, Santa Marta, 470004",
+    "metodo_pago": "tarjeta"
+  },
+  {
+    "_id": "pedido_12",
+    "usuario_id": "user_6",
+    "fecha": "2025-06-12T10:45:00Z",
+    "estado": "cancelado",
+    "productos": [
+      { "producto_id": "prod_14", "cantidad": 1 }
+    ],
+    "total": 179.00,
+    "direccion_envio": "Barrio de Margarita Rojas 11, Cartagena, 130002",
+    "metodo_pago": "nequi"
+  },
+  {
+    "_id": "pedido_13",
+    "usuario_id": "user_1",
+    "fecha": "2025-06-12T11:15:00Z",
+    "estado": "enviado",
+    "productos": [
+      { "producto_id": "prod_13", "cantidad": 1 }
+    ],
+    "total": 59.90,
+    "direccion_envio": "Paseo del Sol 55, Medellín, 050015",
+    "metodo_pago": "daviplata"
+  },
+  {
+    "_id": "pedido_14",
+    "usuario_id": "user_3",
+    "fecha": "2025-06-13T12:10:00Z",
+    "estado": "entregado",
+    "productos": [
+      { "producto_id": "prod_11", "cantidad": 2 },
+      { "producto_id": "prod_17", "cantidad": 1 }
+    ],
+    "total": 378.80,
+    "direccion_envio": "Carrera 7 #80-65, Bogotá, 110111",
+    "metodo_pago": "pse"
+  },
+  {
+    "_id": "pedido_15",
+    "usuario_id": "user_4",
+    "fecha": "2025-06-13T16:30:00Z",
+    "estado": "procesando",
+    "productos": [
+      { "producto_id": "prod_20", "cantidad": 1 }
+    ],
+    "total": 94.90,
+    "direccion_envio": "Avenida de la Esperanza 19, Cali, 760001",
+    "metodo_pago": "tarjeta"
+  },
+  {
+    "_id": "pedido_16",
+    "usuario_id": "user_10",
+    "fecha": "2025-06-14T08:25:00Z",
+    "estado": "enviado",
+    "productos": [
+      { "producto_id": "prod_19", "cantidad": 1 }
+    ],
+    "total": 189.90,
+    "direccion_envio": "Callejón de Palmira 22, Manizales, 170001",
+    "metodo_pago": "pse"
+  },
+  {
+    "_id": "pedido_17",
+    "usuario_id": "user_7",
+    "fecha": "2025-06-14T09:40:00Z",
+    "estado": "entregado",
+    "productos": [
+      { "producto_id": "prod_16", "cantidad": 1 },
+      { "producto_id": "prod_3", "cantidad": 1 }
+    ],
+    "total": 228.90,
+    "direccion_envio": "Diagonal 45B #100-20, Barranquilla, 080001",
+    "metodo_pago": "contra entrega"
+  },
+  {
+    "_id": "pedido_18",
+    "usuario_id": "user_5",
+    "fecha": "2025-06-15T10:00:00Z",
+    "estado": "cancelado",
+    "productos": [
+      { "producto_id": "prod_15", "cantidad": 2 }
+    ],
+    "total": 139.80,
+    "direccion_envio": "Calle del Coral 10, Montería, 230001",
+    "metodo_pago": "nequi"
+  },
+  {
+    "_id": "pedido_19",
+    "usuario_id": "user_8",
+    "fecha": "2025-06-15T11:30:00Z",
+    "estado": "procesando",
+    "productos": [
+      { "producto_id": "prod_20", "cantidad": 1 },
+      { "producto_id": "prod_8", "cantidad": 2 }
+    ],
+    "total": 164.70,
+    "direccion_envio": "Vía La Esperanza #45-67, Cúcuta, 540001",
+    "metodo_pago": "daviplata"
+  },
+  {
+    "_id": "pedido_20",
+    "usuario_id": "user_9",
+    "fecha": "2025-06-16T13:00:00Z",
+    "estado": "enviado",
+    "productos": [
+      { "producto_id": "prod_7", "cantidad": 1 },
+      { "producto_id": "prod_18", "cantidad": 1 }
+    ],
+    "total": 184.80,
+    "direccion_envio": "Calle Palma Seca 66, Armenia, 630001",
+    "metodo_pago": "tarjeta"
+  }
+]

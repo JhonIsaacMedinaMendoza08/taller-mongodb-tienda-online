@@ -1,0 +1,102 @@
+[
+  {
+    "_id": "user_1",
+    "nombre": "Manu Suárez Gálvez",
+    "email": "romanmaria-jose@yahoo.com",
+    "direccion": "Acceso de Cristian Nicolás 4, Palencia, 62662",
+    "ciudad": "León",
+    "genero": "otro",
+    "telefono": "360 208 6844",
+    "rol": "administrador"
+  },
+  {
+    "_id": "user_2",
+    "nombre": "Yaiza Fátima Rocha Pombo",
+    "email": "godofredopavon@ortuno-rosado.org",
+    "direccion": "Glorieta de Marita Ibañez 5, Madrid, 03607",
+    "ciudad": "Castellón",
+    "genero": "otro",
+    "telefono": "390 603 4836",
+    "rol": "administrador"
+  },
+  {
+    "_id": "user_3",
+    "nombre": "Ciro Moreno Llanos Canales",
+    "email": "teresa98@hotmail.com",
+    "direccion": "Paseo de Saturnina Sola 85, Cádiz, 26457",
+    "ciudad": "Sevilla",
+    "genero": "femenino",
+    "telefono": "319 236 8193",
+    "rol": "cliente"
+  },
+  {
+    "_id": "user_4",
+    "nombre": "Ruperto Calzada",
+    "email": "sanmartinteresa@yahoo.com",
+    "direccion": "Ronda de Esperanza Manzano 9 Piso 4 , Palencia, 90098",
+    "ciudad": "Baleares",
+    "genero": "masculino",
+    "telefono": "373 133 6252",
+    "rol": "cliente"
+  },
+  {
+    "_id": "user_5",
+    "nombre": "Macarena Morera Abellán",
+    "email": "alma28@carreno.es",
+    "direccion": "C. de Cristóbal Mateo 8, Alicante, 09086",
+    "ciudad": "Huesca",
+    "genero": "femenino",
+    "telefono": "385 334 3234",
+    "rol": "cliente"
+  },
+  {
+    "_id": "user_6",
+    "nombre": "Fabricio Beltrán Barberá",
+    "email": "roigcayetano@hotmail.com",
+    "direccion": "Via Bernarda Campillo 22, Burgos, 29991",
+    "ciudad": "Guadalajara",
+    "genero": "masculino",
+    "telefono": "388 294 3603",
+    "rol": "cliente"
+  },
+  {
+    "_id": "user_7",
+    "nombre": "Chema Diez",
+    "email": "escamillaabril@yahoo.com",
+    "direccion": "Paseo de Nadia Cabrero 83 Puerta 8 , Ceuta, 36571",
+    "ciudad": "Teruel",
+    "genero": "otro",
+    "telefono": "307 362 3428",
+    "rol": "cliente"
+  },
+  {
+    "_id": "user_8",
+    "nombre": "Atilio Sanmartín Figueroa",
+    "email": "florencio50@gmail.com",
+    "direccion": "Ronda de Calisto Valderrama 159, Girona, 74348",
+    "ciudad": "Valladolid",
+    "genero": "femenino",
+    "telefono": "338 963 6804",
+    "rol": "administrador"
+  },
+  {
+    "_id": "user_9",
+    "nombre": "Nayara Asensio Rueda",
+    "email": "berto64@gmail.com",
+    "direccion": "Camino Lupita Villalobos 87, Vizcaya, 80236",
+    "ciudad": "Salamanca",
+    "genero": "masculino",
+    "telefono": "373 587 3746",
+    "rol": "administrador"
+  },
+  {
+    "_id": "user_10",
+    "nombre": "Marcelino Abad Company",
+    "email": "alecheca@torrecilla.es",
+    "direccion": "Urbanización de Trinidad Gonzalez 407, Jaén, 59170",
+    "ciudad": "Alicante",
+    "genero": "otro",
+    "telefono": "314 685 3687",
+    "rol": "administrador"
+  }
+]

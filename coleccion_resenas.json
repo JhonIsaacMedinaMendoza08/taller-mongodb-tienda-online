@@ -1,0 +1,82 @@
+[
+  {
+    "_id": "resena_1",
+    "usuario_id": "user_2",
+    "producto_id": "prod_7",
+    "comentario": "Entrega rápida y producto excelente.",
+    "calificacion": 3,
+    "fecha": "2025-02-24"
+  },
+  {
+    "_id": "resena_2",
+    "usuario_id": "user_3",
+    "producto_id": "prod_3",
+    "comentario": "Entrega rápida y producto excelente.",
+    "calificacion": 4,
+    "fecha": "2025-03-31"
+  },
+  {
+    "_id": "resena_3",
+    "usuario_id": "user_5",
+    "producto_id": "prod_10",
+    "comentario": "Es justo lo que necesitaba, gracias.",
+    "calificacion": 5,
+    "fecha": "2025-01-31"
+  },
+  {
+    "_id": "resena_4",
+    "usuario_id": "user_1",
+    "producto_id": "prod_3",
+    "comentario": "Todo bien, volveré a comprar.",
+    "calificacion": 3,
+    "fecha": "2025-03-12"
+  },
+  {
+    "_id": "resena_5",
+    "usuario_id": "user_10",
+    "producto_id": "prod_10",
+    "comentario": "El producto llegó roto, muy mal.",
+    "calificacion": 1,
+    "fecha": "2025-05-01"
+  },
+  {
+    "_id": "resena_6",
+    "usuario_id": "user_7",
+    "producto_id": "prod_1",
+    "comentario": "Es justo lo que necesitaba, gracias.",
+    "calificacion": 3,
+    "fecha": "2025-04-18"
+  },
+  {
+    "_id": "resena_7",
+    "usuario_id": "user_8",
+    "producto_id": "prod_2",
+    "comentario": "Hermoso diseño, buena calidad.",
+    "calificacion": 5,
+    "fecha": "2025-01-19"
+  },
+  {
+    "_id": "resena_8",
+    "usuario_id": "user_3",
+    "producto_id": "prod_9",
+    "comentario": "El producto llegó roto, muy mal.",
+    "calificacion": 1,
+    "fecha": "2025-01-22"
+  },
+  {
+    "_id": "resena_9",
+    "usuario_id": "user_2",
+    "producto_id": "prod_6",
+    "comentario": "Es justo lo que necesitaba, gracias.",
+    "calificacion": 4,
+    "fecha": "2025-02-14"
+  },
+  {
+    "_id": "resena_10",
+    "usuario_id": "user_6",
+    "producto_id": "prod_8",
+    "comentario": "No me gustó nada.",
+    "calificacion": 1,
+    "fecha": "2025-01-15"
+  }
+]

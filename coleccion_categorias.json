@@ -1,0 +1,42 @@
+[
+  { "_id": "cat_1", 
+  "nombre": "Ropa masculina", 
+  "descripcion": "Camisas, pantalones, chaquetas y ropa interior para hombre." 
+},
+  { "_id": "cat_2", 
+  "nombre": "Ropa femenina", 
+  "descripcion": "Vestidos, blusas, jeans, chaquetas y más para mujer." 
+},
+  { "_id": "cat_3", 
+  "nombre": "Unisex", 
+  "descripcion": "Prendas cómodas y modernas para todos los géneros." 
+},
+  { "_id": "cat_4", 
+  "nombre": "Accesorios de vestimenta", 
+  "descripcion": "Gorros, bufandas, bolsos, cinturones, y más." 
+},
+  { "_id": "cat_5", 
+  "nombre": "Calzado", 
+  "descripcion": "Zapatos deportivos, casuales, botas y sandalias." 
+},
+  { "_id": "cat_6", 
+  "nombre": "Decoración", 
+  "descripcion": "Objetos decorativos para el hogar: cuadros, plantas artificiales, etc." 
+},
+  { "_id": "cat_7", 
+  "nombre": "Muebles", 
+  "descripcion": "Mesas, sillas, estanterías y sofás." 
+},
+  { "_id": "cat_8", 
+  "nombre": "Ropa deportiva", 
+  "descripcion": "Prendas para hacer ejercicio, yoga y entrenamiento." 
+},
+  { "_id": "cat_9", 
+  "nombre": "Artículos de cocina", 
+  "descripcion": "Vajillas, utensilios, electrodomésticos pequeños." 
+},
+  { "_id": "cat_10",
+  "nombre": "Textiles del hogar", 
+  "descripcion": "Cortinas, cojines, mantas y sábanas." 
+}
+]

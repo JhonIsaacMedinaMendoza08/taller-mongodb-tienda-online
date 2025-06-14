@@ -1,0 +1,202 @@
+[
+  {
+    "_id": "prod_1",
+    "nombre": "Blusa Floral Primavera",
+    "descripcion": "Blusa ligera de algodón con estampado floral ideal para días soleados.",
+    "precio": 79.900,
+    "categoria": "cat_1",
+    "stock": 25,
+    "genero": "femenino",
+    "tags": ["blusa", "algodón", "floral", "primavera"]
+  },
+  {
+    "_id": "prod_2",
+    "nombre": "Camiseta Básica Negra",
+    "descripcion": "Camiseta de algodón 100% para uso diario, disponible en varias tallas.",
+    "precio": 49.900,
+    "categoria": "cat_2",
+    "stock": 40,
+    "genero": "masculino",
+    "tags": ["camiseta", "básico", "algodón", "casual"]
+  },
+  {
+    "_id": "prod_3",
+    "nombre": "Chaqueta Impermeable Unisex",
+    "descripcion": "Protección contra la lluvia con diseño urbano, cierre frontal y capucha ajustable.",
+    "precio": 129.900,
+    "categoria": "cat_3",
+    "stock": 18,
+    "genero": "unisex",
+    "tags": ["chaqueta", "impermeable", "urbano", "lluvia"]
+  },
+  {
+    "_id": "prod_4",
+    "nombre": "Bufanda de Lana Gris",
+    "descripcion": "Bufanda tejida a mano con mezcla de lana suave, perfecta para el invierno.",
+    "precio": 39.900,
+    "categoria": "cat_4",
+    "stock": 30,
+    "genero": "unisex",
+    "tags": ["bufanda", "invierno", "lana", "accesorio"]
+  },
+  {
+    "_id": "prod_5",
+    "nombre": "Set de Cojines Decorativos",
+    "descripcion": "Set de 3 cojines con estampados geométricos para decorar tu sala o habitación.",
+    "precio": 89.000,
+    "categoria": "cat_5",
+    "stock": 12,
+    "genero": "unisex",
+    "tags": ["cojines", "hogar", "decoración", "sala"]
+  },
+  {
+    "_id": "prod_6",
+    "nombre": "Pantalón Chino Beige",
+    "descripcion": "Diseño versátil para oficina o salidas informales, con corte recto.",
+    "precio": 109.900,
+    "categoria": "cat_2",
+    "stock": 22,
+    "genero": "masculino",
+    "tags": ["pantalón", "chino", "beige", "casual"]
+  },
+  {
+    "_id": "prod_7",
+    "nombre": "Vestido Largo Estampado",
+    "descripcion": "Vestido con diseño floral tropical, ideal para clima cálido.",
+    "precio": 139.900,
+    "categoria": "cat_1",
+    "stock": 15,
+    "genero": "femenino",
+    "tags": ["vestido", "tropical", "moda", "verano"]
+  },
+  {
+    "_id": "prod_8",
+    "nombre": "Gorra Snapback Negra",
+    "descripcion": "Gorra ajustable con visera plana, estilo urbano y moderno.",
+    "precio": 34.900,
+    "categoria": "cat_4",
+    "stock": 35,
+    "genero": "unisex",
+    "tags": ["gorra", "urbano", "snapback", "accesorio"]
+  },
+  {
+    "_id": "prod_9",
+    "nombre": "Lampara de Mesa Vintage",
+    "descripcion": "Lámpara con acabado metálico envejecido, ideal para decorar escritorios.",
+    "precio": 159.000,
+    "categoria": "cat_5",
+    "stock": 10,
+    "genero": "unisex",
+    "tags": ["lámpara", "vintage", "escritorio", "hogar"]
+  },
+  {
+    "_id": "prod_10",
+    "nombre": "Sudadera con Capucha Gris",
+    "descripcion": "Sudadera abrigada con bolsillos laterales, perfecta para días fríos.",
+    "precio": 119.900,
+    "categoria": "cat_3",
+    "stock": 28,
+    "genero": "unisex",
+    "tags": ["sudadera", "invierno", "abrigo", "casual"]
+  },
+  {
+    "_id": "prod_11",
+    "nombre": "Camisa de Lino Celeste",
+    "descripcion": "Camisa fresca de lino ideal para climas cálidos, con botones de madera.",
+    "precio": 89.900,
+    "categoria": "cat_2",
+    "stock": 20,
+    "genero": "masculino",
+    "tags": ["camisa", "lino", "verano", "casual"]
+  },
+  {
+    "_id": "prod_12",
+    "nombre": "Zapatillas Urbanas Blancas",
+    "descripcion": "Zapatillas cómodas de diseño minimalista para uso diario en ciudad.",
+    "precio": 149.900,
+    "categoria": "cat_3",
+    "stock": 25,
+    "genero": "unisex",
+    "tags": ["zapatillas", "urbano", "blanco", "calzado"]
+  },
+  {
+    "_id": "prod_13",
+    "nombre": "Top Deportivo Fucsia",
+    "descripcion": "Top elástico con soporte medio para entrenamientos de impacto moderado.",
+    "precio": 59.900,
+    "categoria": "cat_1",
+    "stock": 18,
+    "genero": "femenino",
+    "tags": ["top", "deporte", "fitness", "activo"]
+  },
+  {
+    "_id": "prod_14",
+    "nombre": "Cortinas Blackout Beige",
+    "descripcion": "Cortinas con bloqueo de luz solar y textura elegante, perfectas para el dormitorio.",
+    "precio": 179.000,
+    "categoria": "cat_5",
+    "stock": 8,
+    "genero": "unisex",
+    "tags": ["hogar", "cortinas", "blackout", "dormitorio"]
+  },
+  {
+    "_id": "prod_15",
+    "nombre": "Pijama de Algodón Rayas",
+    "descripcion": "Conjunto de camiseta y pantalón suave con diseño a rayas azul y blanco.",
+    "precio": 69.900,
+    "categoria": "cat_1",
+    "stock": 32,
+    "genero": "masculino",
+    "tags": ["pijama", "algodón", "descanso", "noche"]
+  },
+  {
+    "_id": "prod_16",
+    "nombre": "Cartera Cruzada Cuero Sintético",
+    "descripcion": "Bolso compacto con correa ajustable y bolsillos interiores.",
+    "precio": 99.000,
+    "categoria": "cat_4",
+    "stock": 16,
+    "genero": "femenino",
+    "tags": ["cartera", "moda", "accesorio", "cuero"]
+  },
+  {
+    "_id": "prod_17",
+    "nombre": "Alfombra Étnica Multicolor",
+    "descripcion": "Alfombra tejida a mano con diseño geométrico tradicional.",
+    "precio": 199.000,
+    "categoria": "cat_5",
+    "stock": 6,
+    "genero": "unisex",
+    "tags": ["alfombra", "decoración", "hogar", "étnico"]
+  },
+  {
+    "_id": "prod_18",
+    "nombre": "Sombrero de Palma Natural",
+    "descripcion": "Sombrero artesanal ideal para el sol con cinta decorativa.",
+    "precio": 44.900,
+    "categoria": "cat_4",
+    "stock": 21,
+    "genero": "unisex",
+    "tags": ["sombrero", "verano", "accesorio", "palma"]
+  },
+  {
+    "_id": "prod_19",
+    "nombre": "Blazer Formal Azul Marino",
+    "descripcion": "Blazer con corte entallado, ideal para oficina o eventos formales.",
+    "precio": 189.900,
+    "categoria": "cat_2",
+    "stock": 14,
+    "genero": "masculino",
+    "tags": ["blazer", "formal", "oficina", "elegante"]
+  },
+  {
+    "_id": "prod_20",
+    "nombre": "Falda Plisada Midi Rosa",
+    "descripcion": "Falda fluida con plisado sutil, perfecta para looks casuales o semi-formales.",
+    "precio": 94.900,
+    "categoria": "cat_1",
+    "stock": 19,
+    "genero": "femenino",
+    "tags": ["falda", "plisada", "rosa", "moda"]
+  }
+]
